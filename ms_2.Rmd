@@ -1,0 +1,26 @@
+---
+title: 'Milestone #2'
+author: "Hudson Miller"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Guns & Suicide in America
+
+### Pros:
+#### The author chose a very difficult and important topic to cover in this presentation. They utilized a variety of data points over a broad timeframe in order to develop this project. There are many different subcategories that add to the discussion and raise important issues about the effects of guns on suicide in America. The graphics help to shine light on the fact that white males are the predominant demographic who are involved in this issue.
+
+### Cons:
+#### Though this author chose a very difficult topic, they did not give it the dedication that it deserved. The section titled, “Takeaways and What I Learned,” seems to show that the author did not care about the topic and the severity of the issue. The vocabulary and manner in which she speaks about the project seemed to express that she was more focused on learning how to play with data instead of the subject that she was exploring and impact of the statistics that she displayed. Given the devastation and heartbreak of this topic, you must be careful with the manner in which you present this information and the vocabulary you use. Often the scales used on graphs had odd proportions that made the data hard to read and needlessly messy. The graphs often had too many labels on the X and Y axes. Overall the project seemed to lack organization and direction. Particularly in the veteran section, there did not appear to be a correlation drawn between veteran suicide and firearms. Veteran suicide is a major problem plaguing our country but this section seems to have no correlation to the overall argument and the graphs are too large due to bad scaling on the X axis. Though I admired the effort made to discuss such an important topic, the entire presentation had many spelling errors and lacked direction.
+
+## The History of the Olympic Games
+
+### Pros:
+####	This project is very well presented and organized. Though the author utilized a large amount of data, covering an extensive period of time, it did not become confusing or messy. Utilizing numerous mediums, the author is able to paint a vivid picture of how the Olympics has transformed over time. They do this through exploring the changing trends in age, race, and gender at the Olympic games. Though this is a very informative project and answers many questions, it also raises important issues about who is represented at the Olympics and what areas need to be improved.
+
+### Cons:
+#### Though the data is very organized, there are areas where subtle changes in presentation would allow the data to be better understood. Simple changes like matching the colors of medals with their data points would make the line graphs much more understandable. Certain labels could be fully typed out or edited to improve the presentation. Particularly on the graphs depicting age breakdowns.
